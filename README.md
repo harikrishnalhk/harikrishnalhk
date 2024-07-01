@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @harikrishnalhk
+- 👋 Hi, I’m @harikrishna
 - 👀 I’m interested in Software Engineering and Full stack development
 - 🌱 I’m currently learning pyhthon, Django
 - 💞️ I’m looking to collaborate on 
