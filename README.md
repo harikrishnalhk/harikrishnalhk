@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @harikrishna
-- 👀 I’m interested in Software Engineering and Full stack development
-- 🌱 I’m currently learning pyhthon, Django
-- 💞️ I’m looking to collaborate on 
-- 📫 Connect with me in linked in "https://www.linkedin.com/in/latkari-harikrishna/"
+- 👋 Hi, I’m @harikrishna.
+- 👀 I’m interested Full stack development.
+- 🌱 Solved 350+ Questions on Leetcode.
+- 📫 Connect with me in linked in "https://www.linkedin.com/in/latkari-harikrishna/".
+- Currently working as Technical Trainer at Iamneo.ai
+- Profesional in C++, DSA, Java, MySql, SDET - Java, Javascript.
+- Love to build Websites.
   
 
 <!---
