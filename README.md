@@ -1,10 +1,11 @@
 - 👋 Hi, I’m @harikrishna.
 - 👀 I’m interested Full stack development.
 - 🌱 Solved 350+ Questions on Leetcode.
+- 🏢 Currently working as Technical Trainer at Iamneo.ai
+- 🛠️ Profesional in C++, DSA, Java, MySql, SDET - Java, Javascript.
+- 📊 Love to build Websites.
 - 📫 Connect with me in linked in "https://www.linkedin.com/in/latkari-harikrishna/".
-- Currently working as Technical Trainer at Iamneo.ai
-- Profesional in C++, DSA, Java, MySql, SDET - Java, Javascript.
-- Love to build Websites.
+- 📫 Check my Leetcode Profile "https://leetcode.com/u/harikrishnalhk/".
   
 
 <!---
